@@ -1,17 +1,13 @@
 ### Howdy Ya'll 
 
-
 ## Jedediah Stout here. Father, Developer, learner, and adventurer.
 - I am currently learning everything
 - I am looking to collaborate with other content creators
 
-
 ### Feel free to reach out here
-
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jedstout/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jedstout#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 ### Languages and Tools:
 
@@ -24,5 +20,3 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
-<br />
-<br />
