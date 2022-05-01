@@ -6,7 +6,7 @@
 
 ### Feel free to reach out here:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jedstout)
+[![website](./icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/jedstout)
 
 ### Languages and Tools:
 
