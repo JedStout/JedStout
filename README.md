@@ -6,7 +6,7 @@
 
 ### Feel free to reach out here:
 
-[![website](./icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/jedstout)
+[![website](<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />)](https://www.linkedin.com/in/jedstout)
 
 ### Languages and Tools:
 
