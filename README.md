@@ -4,10 +4,6 @@
 - I am currently learning everything
 - I am looking to collaborate with other content creators
 
-### Feel free to reach out here:
-
-[![website](<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />)](https://www.linkedin.com/in/jedstout)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
