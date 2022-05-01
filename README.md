@@ -4,10 +4,9 @@
 - I am currently learning everything
 - I am looking to collaborate with other content creators
 
-### Feel free to reach out here
+### Feel free to reach out here:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jedstout/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jedstout#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jedstout)
 
 ### Languages and Tools:
 
