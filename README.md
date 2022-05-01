@@ -13,6 +13,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-## 𝗦𝘁𝗮𝘁𝘀
+### 𝗦𝘁𝗮𝘁𝘀
 
 ![Jed's github stats](https://github-readme-stats.vercel.app/api?username=jedstout&show_icons=true&theme=dracula)
